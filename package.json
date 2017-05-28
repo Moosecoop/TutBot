@@ -1,0 +1,23 @@
+{
+  "name": "hilsbot",
+  "version": "0.0.1",
+  "description": "a simple discord bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "node --harmony app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/moosecoop/tutbot.git"
+  },
+  "keywords": [
+    "bot",
+    "discord"
+  ],
+  "author": "hil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moosecoop/tutbot/issues"
+  },
+  "homepage": "https://github.com/moosecoop/tutbot#readme"
+}
