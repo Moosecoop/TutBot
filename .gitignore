@@ -58,4 +58,4 @@ typings/
 .env
 
 #token file
-token.json
+token.json*
